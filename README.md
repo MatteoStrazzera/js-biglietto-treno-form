@@ -23,5 +23,22 @@ Solo una volta che il milestone 1 sarà completo e funzionante allora realizzere
 
 ## Steps
 
+- creare le variabili con i valori che l'utente dichiarerà
+
+    - creare due input che permettano all'utente di dichiarare l'età ed i chilometri che dovrà percorrere
+
+- creare le condizioni per il calcolo del prezzo del biglietto con le seguenti regole:
+
+    - se minorenne -> sconto del 20%
+    - se over 65 -> sconto del 40%
+    - se non rientra in nessuno dei primi casi il prezzo sarà pieno
+
+- creare l'output con le regole sopracitate
 
 ## Tools
+
+- const / let
+- input
+- number()
+- if / else if
+- console.log
